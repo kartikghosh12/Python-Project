@@ -24,6 +24,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Images
+![2_crop](https://user-images.githubusercontent.com/73251086/103217925-c5510a80-48e7-11eb-955f-92eda0e89823.png)
+![1_crop](https://user-images.githubusercontent.com/73251086/103217984-e6b1f680-48e7-11eb-88dc-04d3e75c587a.png)
+
 ## License
 [@Durjoy](#)
-![Hnet-image](https://user-images.githubusercontent.com/73251086/96883766-4a472000-1470-11eb-88fe-8ca96c023ee1.gif)
+
